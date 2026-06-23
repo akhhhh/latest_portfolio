@@ -1,4 +1,4 @@
-import Abhishek from "../assets/kushagra.jpeg";
+import abhishek from "../assets/abhishek.jpeg";
 import { useRef } from "react";
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
@@ -97,7 +97,7 @@ const AboutPage = () => {
           <img
             ref={image}
             className="rounded-lg w-52 sm:w-64 md:w-72 lg:w-80"
-            src={Abhishek}
+            src={abhishek}
             alt=""
           />
         </div>
