@@ -191,7 +191,7 @@ const Projects = () => {
           </div>
         </a>
 
-        <a href="https://github.com/KushagraSingh1100/AmiBot" target="_blank" className="project-card relative min-h-[420px] lg:h-[55vh] bg-[#f4f2fa] border border-[#DDD6CF] rounded-2xl flex flex-col gap-4 p-4 shadow-lg hover:-translate-y-2 hover:shadow-2xl transition-all duration-500">
+        <a href="https://github.com/akhhhh/Amibot" target="_blank" className="project-card relative min-h-[420px] lg:h-[55vh] bg-[#f4f2fa] border border-[#DDD6CF] rounded-2xl flex flex-col gap-4 p-4 shadow-lg hover:-translate-y-2 hover:shadow-2xl transition-all duration-500">
           <div className="overflow-hidden shadow-md rounded-md">
             <img
               src={amibot}
